@@ -1,7 +1,7 @@
 {
 	"name": "Himadri Bhattacharya",
 	"type": "personal",
-	"bio": "I am a full stack developer",
+	"bio": "Hi, I'm a full stack developer with one year of experience in various programming languages including Javascript, Java, HTML, Typescript, React and Angular.",
 	"links": [{
 			"name": "Linkedln",
 			"url": "https://www.linkedin.com/in/himadribhattacharya3/",
@@ -9,8 +9,13 @@
 		},
 		{
 			"name": "Twitter",
-			"url": "https://twitter.com/HimadriBh07",
+			"url": "https://twitter.com/slowcheetah07_",
 			"icon": "FaTwitter"
+		},
+		  {
+			"name": "GitHub",
+			"url": "https://github.com/slowcheetah07",
+			"icon": "FaGithub"
 		}
 
 	]
